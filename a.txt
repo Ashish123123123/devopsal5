@@ -1,3 +1,9 @@
 aaaaaaaasdfghjkl
 asdzxcvbnmasdff
+<<<<<<< HEAD
 bbbbbbbbb
+=======
+dddddddddd
+ffffffffff
+wwwwwwwwww
+>>>>>>> dev1
